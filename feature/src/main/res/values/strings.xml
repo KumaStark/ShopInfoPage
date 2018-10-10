@@ -1,0 +1,6 @@
+<resources>
+    <string name="shop_address">店铺地址：上海市长宁区仙霞路762号</string>
+    <string name="shop_hours">营业时间： 11：00 ～ 3：00</string>
+    <string name="shop_tel">订座电话：13918501288</string>
+    <string name="shop_photo_description">店铺照片</string>
+</resources>
