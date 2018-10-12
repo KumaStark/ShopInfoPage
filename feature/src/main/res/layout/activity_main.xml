@@ -50,5 +50,13 @@
             android:drawableStart="@drawable/shop_tel"
             android:gravity="center_vertical"
             android:text="@string/shop_tel" />
+
+        <TextView
+            android:id="@+id/shopDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/shop_description"
+            android:gravity="center_vertical"
+            android:text="@string/shop_description" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
